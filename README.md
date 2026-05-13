@@ -3,6 +3,8 @@ This is a Deadlock counter guide I created using Vibe coding and the transcript 
 
 I made this for multiple reasons but the first one is that I wanted to have access to an easy way to check what to buy in order to counter the people I was going against.
 
+I also want to mention that I will be continuing to edit it. Please send me any comments regarding the site using my discord: DropOfThouSea
+
 Since it's creation I've added multiple things, manually and using vibe coding
 - Added images to heroes
 - Added colors to Items
